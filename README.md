@@ -68,3 +68,7 @@ This implementation demonstrates exception-based control flow obfuscation. The t
 
 # License
 - MIT
+
+
+# Credits 
+- AdvDebug for hook -> copymem. (github.com/AdvDebug)
